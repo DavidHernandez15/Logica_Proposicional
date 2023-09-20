@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2023/09/15 10:57:34.846,=D:\Bibliotecas\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/09/15 11:36:50.808,D:\Bibliotecas\Documentos\GitHub\Logica_Proposicional\Logica_computacional\uLogicaProposicional.dfm=D:\Bibliotecas\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/09/15 11:36:50.808,D:\Bibliotecas\Documentos\GitHub\Logica_Proposicional\Logica_computacional\uLogicaProposicional.pas=D:\Bibliotecas\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/09/15 11:37:21.805,D:\Bibliotecas\Documentos\GitHub\Logica_Proposicional\Logica_computacional\Proposiciones.dproj=D:\Bibliotecas\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
